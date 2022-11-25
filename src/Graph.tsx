@@ -4,7 +4,7 @@ import { ServerRespond } from './DataStreamer';
 import './Graph.css';
 
 /**
- * Props declaration for <Graph />
+ *Props declaration for <Graph />
  */
 interface IProps {
   data: ServerRespond[],
